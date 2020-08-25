@@ -1,13 +1,13 @@
 {
   "name": "bitwarden-dedupe",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "dedupe.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Roel Berger <berger.roel@gmail.com>",
+  "license": "MIT",
   "dependencies": {
     "fast-json-stable-stringify": "^2.1.0",
     "fs-extra": "^9.0.1"
